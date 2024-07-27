@@ -12,5 +12,18 @@ windows:
 Download the zip file and unzip it, install Python and run the BNGremoter.py file.
 linux:
 ```
+apt install git
+```
+```
+apt install python
+```
+```
+git clone https://github.com/salehbngpy/BNGremoter.git
+```
+```
+cd BNGremoter
+```
+for target : ``` python target.py ```
+for hacker : ``` python BNGremoter.py ```
 
 
