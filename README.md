@@ -9,6 +9,10 @@ To set IP and port, open the target file and edit the host and port
 # portforwarding
 The tool also has a script for connecting to the Internet, ngrok
 
+# exe
+Also, by running the exe.py file, the pyautoexe library will be installed and you can execute it
+No antivirus detects it
+
 # installing
 windows:
 Download the zip file and unzip it, install Python and run the BNGremoter.py file.
